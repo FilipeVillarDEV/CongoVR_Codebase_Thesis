@@ -1,0 +1,14 @@
+*.meta
+*.psd
+*.png
+*.jpg
+*.exe
+*.dll
+*.obj
+*.fbx
+*.mp4
+*.unity
+*.prefab
+Library/
+Temp/
+Build/
